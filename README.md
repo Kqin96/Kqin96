@@ -21,4 +21,3 @@
 ### OS
 ![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
 ![](https://img.shields.io/badge/Android-32de84?labelColor=black&logo=android)
-![](https://img.shields.io/badge/iPadOS-ff87cf?labelColor=black&logo=ios)
