@@ -6,11 +6,9 @@
 
   <body>
     <p><a href=https://discord.gg/CMGt4yr8yT>MyServer</a></p>
- 　![s256_f_object_155_0bg](https://user-images.githubusercontent.com/97442619/182020770-30ce80f1-08ea-4396-bf97-a4a298e9f446.png) width="10" height="10"
+    <img src="https://discord.com/channels/929981238947741706/974254487529201675/1003239277800472627" width="30" height="30">
   </body>
   
-
-
   <body>
     <p><a href=main.html>サブページ2</a></p>
   </body>
