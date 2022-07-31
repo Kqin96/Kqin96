@@ -17,3 +17,8 @@
 
 ### Editors
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?labelColor=black&logo=visual-studio-code)
+
+### OS
+![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
+![](https://img.shields.io/badge/Android-32de84?labelColor=black&logo=android)
+![](https://img.shields.io/badge/iPadOS-ff87cf?labelColor=black&logo=ios)
