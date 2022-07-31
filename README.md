@@ -5,7 +5,7 @@
   </body>
 
   <body>
-    <p><a href=page.html>サブページ1</a></p>
+    <p><a href=https://discord.gg/CMGt4yr8yT>MyServer</a></p>
   </body>
 
   <body>
