@@ -1,28 +1,7 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <meta charset="utf-8">
-
-<body bgcolor="#939393">
-  <title>トップページ</title>
-  </head>
-
   <body>
-    <h1>さかなBot</h1>
-    <p>さかなBotというBotを作ってみたよ。</p>
-  </body>
-
-  <body>
-    <img src="sakana.png">
-  </body>
-
-  <body>
-    <p>コマンドを短くして、コマンドを覚えやすい＆入力しやすい部分を意識してみたよ</p>
-  </body>
-
-  <body>
-    <img src="help.png">
+    <h1>Kqin</h1>
   </body>
 
   <body>
