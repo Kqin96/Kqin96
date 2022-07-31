@@ -9,7 +9,7 @@
   <body>
     <img src="https://cdn.discordapp.com/attachments/974254487529201675/1003243994370822164/download.png" width="80" height="20">
     <img src="https://cdn.discordapp.com/attachments/974254487529201675/1003243994664419328/python-logo-master-v3-TM.png" width="80" height="20">
-    <img src="https://cdn.discordapp.com/attachments/974254487529201675/1003244661168689212/3155c0c0-412d-11ec-8d2d-053636eb5d04.png?width=949&height=475g" width="80" height="20">
+    <img src="https://cdn.discordapp.com/attachments/974254487529201675/1003244661168689212/3155c0c0-412d-11ec-8d2d-053636eb5d04.png?width=949&height=475g" width="80" height="25">
     <img src="https://cdn.discordapp.com/attachments/974254487529201675/1003244660711501855/images.png" width="80" height="20">
     <img src="https://cdn.discordapp.com/attachments/974254487529201675/1003244661625856030/download.jpg" width="80" height="20">
   </body>
