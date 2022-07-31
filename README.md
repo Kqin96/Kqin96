@@ -9,8 +9,10 @@
 
   ### Languages
 ![](https://img.shields.io/badge/Node.js-3c873a?labelColor=black&logo=node.js)
-![](https://img.shields.io/badge/Nuxt.js-41b883?labelColor=black&logo=nuxt.js)
-![](https://img.shields.io/badge/Vue.js-34495e?labelColor=black&logo=vue.js)
-![](https://img.shields.io/badge/JavaScript-f0db4f?labelColor=black&logo=javascript)
-![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
 ![](https://img.shields.io/badge/Python-ffe873?labelColor=black&logo=python)
+
+### Hostings
+![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
+
+### Editors
+![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?labelColor=black&logo=visual-studio-code)
