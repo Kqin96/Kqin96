@@ -1,1 +1,1 @@
-### ![image](https://discord.com/widget?id=873200292408225872&theme=dark)
+### ![link](https://discord.com/widget?id=873200292408225872&theme=dark)
