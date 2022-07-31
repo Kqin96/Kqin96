@@ -1,3 +1,1 @@
-(https://user-images.githubusercontent.com/97442619/182020236-69df5304-6639-41da-b5e2-95f4ff066622.png?width=30&height=80)
-
-
+<iframe src="https://discord.com/widget?id=873200292408225872&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
