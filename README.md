@@ -5,7 +5,7 @@
     <img src="https://media.discordapp.net/attachments/974254487529201675/1003239277125193858/unknown.png" width="30" height="30">
     <p><a href=https://discord.com/api/oauth2/authorize?client_id=929333593099104276&permissions=8&scope=bot%20applications.commands>SakanaBot</a></p>
     <img src="https://media.discordapp.net/attachments/974254487529201675/974702773113323590/189505.png?width=475&height=475" width="30" height="30">
-##
+#
     <img src="https://cdn.discordapp.com/attachments/974254487529201675/1003243994370822164/download.png" width="80" height="20">
     <img src="https://cdn.discordapp.com/attachments/974254487529201675/1003243994664419328/python-logo-master-v3-TM.png" width="80" height="20">
     <img src="https://cdn.discordapp.com/attachments/974254487529201675/1003244660711501855/images.png" width="80" height="20">
