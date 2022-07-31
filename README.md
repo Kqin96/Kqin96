@@ -6,8 +6,7 @@
 
   <body>
     <p><a href=https://discord.gg/CMGt4yr8yT>MyServer</a></p>
-     <img src="![s256_f_object_155_0bg](https://user-images.githubusercontent.com/97442619/182020663-cc2f4d30-1cc1-4c11-9fe5-becc7efa22bd.png)
-">
+ 　<img src="s256_f_object_155_0bg.png" width="10" height="10">
   </body>
 
   <body>
