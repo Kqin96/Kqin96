@@ -1,1 +1,1 @@
-### ![link](https://discord.com/widget?id=873200292408225872&theme=dark)
+### ![Myserver](https://discord.com/widget?id=873200292408225872&theme=dark)
