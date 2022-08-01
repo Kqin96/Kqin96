@@ -14,7 +14,8 @@
 ![](https://img.shields.io/badge/-Python-yellow)
 
 ### Hostings
-![](https://img.shields.io/badge/-Replit-gray)![](https://img.shields.io/badge/-Glitch-pink)
+![](https://img.shields.io/badge/-Replit-gray)
+![](https://img.shields.io/badge/-Glitch-pink)
 ![](https://img.shields.io/badge/-Heroku-purple)
 
 ### Editors
