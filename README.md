@@ -8,7 +8,7 @@
   </body>
 </html>
 
-##使ったことあるやつとか書いた
++ 使ったことあるやつを一応書いてみた
   ### Languages
 ![](https://img.shields.io/badge/-Node.js-green)
 ![](https://img.shields.io/badge/-Python-yellow)
