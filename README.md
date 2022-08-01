@@ -22,3 +22,6 @@
 ### OS
 ![](https://img.shields.io/badge/-Windows-9cf)
 ![](https://img.shields.io/badge/-Android-brightgreen)
+
+ ### CPU
+ ![](https://img.shields.io/badge/-Intel-white)
