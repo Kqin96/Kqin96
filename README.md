@@ -12,15 +12,12 @@
  ### Languages
 ![](https://img.shields.io/badge/-Node.js-green)
 ![](https://img.shields.io/badge/-Python-yellow)
-
 ### Hostings
 ![](https://img.shields.io/badge/-Replit-gray)
 ![](https://img.shields.io/badge/-Glitch-pink)
 ![](https://img.shields.io/badge/-Heroku-purple)
-
 ### Editors
 ![](https://img.shields.io/badge/-visual--studio--code-informational)
-
 ### OS
 ![](https://img.shields.io/badge/-Windows-9cf)
 ![](https://img.shields.io/badge/-Ubnntu-orange)
