@@ -10,7 +10,7 @@
 
   ### Languages
 ![](https://img.shields.io/badge/-Node.js-green)
-![](https://img.shields.io/badge/Python-ffe873?labelColor=black&logo=python)
+![](https://img.shields.io/badge/-Python-yellow)
 
 ### Hostings
 ![](https://img.shields.io/badge/-Replit-gray)
@@ -20,5 +20,5 @@
 ![](https://img.shields.io/badge/-visual--studio--code-informational)
 
 ### OS
-![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
-![](https://img.shields.io/badge/Android-32de84?labelColor=black&logo=android)
+![](https://img.shields.io/badge/-Windows-9cf)
+![](https://img.shields.io/badge/-Android-brightgreen)
