@@ -9,7 +9,7 @@
 </html>
 
   ### Languages
-![](https://img.shields.io/badge/Node.js-3c873a?labelColor=black&logo=node.js)
+![](https://img.shields.io/badge/-Node.js-green)
 ![](https://img.shields.io/badge/Python-ffe873?labelColor=black&logo=python)
 
 ### Hostings
