@@ -13,10 +13,11 @@
 ![](https://img.shields.io/badge/Python-ffe873?labelColor=black&logo=python)
 
 ### Hostings
-![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
+![](https://img.shields.io/badge/-Replit-gray)
+![](https://img.shields.io/badge/-Glitch-pink)
 
 ### Editors
-![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?labelColor=black&logo=visual-studio-code)
+![](https://img.shields.io/badge/-visual--studio--code-informational)
 
 ### OS
 ![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
