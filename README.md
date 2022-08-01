@@ -27,6 +27,8 @@
 ![](https://img.shields.io/badge/-Android-brightgreen)
 ![](https://img.shields.io/badge/-iOS-black)
 
+/*
  ### CPU
  ![](https://img.shields.io/badge/-Intel-white)
  ![](https://img.shields.io/badge/-Snapdragon-red)
+*/
