@@ -8,7 +8,7 @@
   </body>
 </html>
 
-+ 使ったことあるやつを一応まとめてみた
+ 使ったことあるやつを一応まとめてみた
  ### Languages
 ![](https://img.shields.io/badge/-Node.js-green)
 ![](https://img.shields.io/badge/-Python-yellow)
