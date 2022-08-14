@@ -8,7 +8,7 @@
   </body>
 </html>
 
-![](https://img.shields.io/discord/873200292408225872?style=plastic)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kqin96&show_icons=true&theme=radical)
  ## 使ったことあるやつを一応まとめてみた
  ### Languages
 ![](https://img.shields.io/badge/-Node.js-green)
