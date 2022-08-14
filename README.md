@@ -8,7 +8,7 @@
   </body>
 </html>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kqin96](https://github.com/anuraghazra/github-readme-stats)
+[!][willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kqin96)(https://github.com/anuraghazra/github-readme-stats)
  ## 使ったことあるやつを一応まとめてみた
  ### Languages
 ![](https://img.shields.io/badge/-Node.js-green)
