@@ -8,8 +8,6 @@
   </body>
 </html>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqin96)](https://github.com/anuraghazra/github-readme-stats)
-
  ## 
  ### Languages
 ![](https://img.shields.io/badge/-Node.js-green)
