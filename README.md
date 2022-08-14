@@ -8,8 +8,7 @@
   </body>
 </html>
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kqin96)
- ## 使ったことあるやつを一応まとめてみた
+ ## 
  ### Languages
 ![](https://img.shields.io/badge/-Node.js-green)
 ![](https://img.shields.io/badge/-Python-yellow)
