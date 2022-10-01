@@ -5,10 +5,8 @@
     <img src="https://media.discordapp.net/attachments/974254487529201675/1003239277125193858/unknown.png" width="30" height="30">
     <p><a href=https://discord.com/api/oauth2/authorize?client_id=929333593099104276&permissions=8&scope=bot%20applications.commands>MyBot</a></p>
     <img src="https://media.discordapp.net/attachments/974254487529201675/974702773113323590/189505.png" width="30" height="30">
-<p><iframe src="https://discord.com/widget?id=929981238947741706&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></p>
   </body>
 </html>
-
 
  ## 
  ### Languages
