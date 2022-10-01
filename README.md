@@ -8,6 +8,10 @@
   </body>
 </html>
 
+##
+###
+![](https://discord.com/widget?id=929981238947741706&theme=dark)
+
  ## 
  ### Languages
 ![](https://img.shields.io/badge/-Node.js-green)
