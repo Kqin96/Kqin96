@@ -13,3 +13,6 @@
 ![](https://img.shields.io/badge/-Ubnntu-orange)
 ![](https://img.shields.io/badge/-Android-brightgreen)
 ![](https://img.shields.io/badge/-iOS-black)
+
+
+https://shields.io/
