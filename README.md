@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanogy98&label=Profile%20views&color=0e75b6&style=flat" alt="nanogy98" /> </p>
 
-- 🔭 DiscordでKainBotというボットを運営しています。 [KainBot](https://nanogy98.github.io/add.html)
+- 🔭 [KainBot](https://nanogy98.github.io/add.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
