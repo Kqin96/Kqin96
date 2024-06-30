@@ -3,7 +3,7 @@
 
 ### 🔭 [KainBot](https://kain-bot.f5.si/add.html)
 ### [KainBot Pages](https://kain-bot.f5.si)
-![](https://cdn.discordapp.com/avatars/1017774466262122496/95c9046795fb9f4ea30078ea69c68e52.png?size=1024)
+![https://cdn.discordapp.com/avatars/1017774466262122496/95c9046795fb9f4ea30078ea69c68e52.png?size=1024]()
 # Connect with me:
 
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanogy98&show_icons=true&theme=merko)--> 
