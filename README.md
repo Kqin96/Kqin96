@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋</h1>
+<h1 align="center">Hello👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LaIixia&label=Profile%20views&color=0e75b6&style=flat" alt="LaIixia" /> </p>
 
 ### 🔭 [KainBot](https://kain-bot.f5.si/add.html)
