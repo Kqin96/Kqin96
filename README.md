@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LaIixia&label=Profile%20views&color=0e75b6&style=flat" alt="LaIixia" /> </p>
 
 ### 🔭 [KainBot](https://kain-bot.f5.si/add.html)
-![](https://cdn.discordapp.com/avatars/1017774466262122496/95c9046795fb9f4ea30078ea69c68e52.png)
-### [KainBot Pages](https://kain-bot.f5.si)
+### 🟦 [KainBot Pages](https://kain-bot.f5.si)
 
 # Connect with me:
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanogy98&show_icons=true&theme=merko)--> 
